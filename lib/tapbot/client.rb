@@ -3,7 +3,6 @@ module Tapbot
     Dir[File.expand_path('../client/*.rb', __FILE__)].each{|f| require f}
   
     include HTTParty
-    #format :json
     
     parser Tapbot::Parser
     
