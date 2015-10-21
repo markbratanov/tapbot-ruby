@@ -1,0 +1,9 @@
+{
+    "amount": 4000,
+    "comments": "transaction comments",
+    "date": "2015-09-29T11:09:11.619Z",
+    "from": "davidrv",
+    "status": "COMPLETED",
+    "to": "victor",
+    "transaction_id": "560a7157146beb447a000005"
+}

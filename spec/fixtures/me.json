@@ -1,0 +1,9 @@
+{
+  "email":"david@davidrv.com",
+  "balance":100,    
+  "bio":"user bio from profile",
+  "firstname":"david",
+  "lastname":"ramirez",
+  "payment_address":"btc-address",
+  "username":"davidrv"
+}

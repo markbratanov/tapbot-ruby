@@ -1,0 +1,10 @@
+{
+    "btc_address": "btc-address",
+    "date": "2015-09-24T17:35:47.303Z",
+    "from": "TAP",
+    "from_amount": 10,
+    "status": "COMPLETED",
+    "to": "BTC",
+    "to_amount": 0.00020211045868436726,
+    "exchange_id": "56043473146beb36a800000d"
+}
