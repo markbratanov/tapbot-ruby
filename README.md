@@ -1,5 +1,7 @@
 # Tapbot
 
+[![Code Climate](https://codeclimate.com/github/Tapbot/tapbot-ruby/badges/gpa.svg)](https://codeclimate.com/github/Tapbot/tapbot-ruby)
+
 Official Tapbot API ruby gem.
 
 ## Installation
