@@ -1,5 +1,6 @@
 # Tapbot
 
+[![Build Status](https://travis-ci.org/Tapbot/tapbot-ruby.svg?branch=master)](https://travis-ci.org/Tapbot/tapbot-ruby)
 [![Code Climate](https://codeclimate.com/github/Tapbot/tapbot-ruby/badges/gpa.svg)](https://codeclimate.com/github/Tapbot/tapbot-ruby)
 
 Official Tapbot API ruby gem.
