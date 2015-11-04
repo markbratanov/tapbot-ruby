@@ -122,7 +122,7 @@ exchange.date
 ```ruby
 exchange = client.create_exchange(amount, "btc-address") # TAP amount to exchange to BTC and your Wallet address
 ```
-If everithing is ok it should return a Exchange object
+If everithing is ok it should return an Exchange object
 ```ruby
 exchange.exchange_id
 exchange.btc_address
